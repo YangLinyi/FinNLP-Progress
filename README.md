@@ -5,18 +5,21 @@
 ### Financial Index Forecasting (Financial News/Social Media/Professional Documents/Earning Conference Call/10K10Q Report)
 Tasks:
 Classification (Meaningless)
-Regression (MSE)
+
+Regression (MSE): Volatility Prediction; Return Prediction
 
 ### Financial Documents Analysis (Professional Documents)
 Tasks:
 Correlation (ACL-19: Financial Analysts Rating-Earning Conference Call)
+
 Groups:
 Bloomberg; CMU
 
 ### Investor Sentiment Analysis (Social Media/Financial News)
 Tasks:
 Sentiment Analysis (Binary Classification / Five-class Classification)
+
 Group:
-Taiwan
+Taiwan; Frank Xing; Tie-Yan Liu (Microsoft)
 
 ### Portfolio Management (Currently research question do not exist in NLP)
