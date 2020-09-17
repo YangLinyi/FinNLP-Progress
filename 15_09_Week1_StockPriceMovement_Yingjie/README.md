@@ -11,7 +11,7 @@
 ***
 
 
-**|Reference       | Feature Formatting     |  Model Type     | Implementation  |**
+|Reference       | Feature Formatting     |  Model Type     | Implementation  |
 | --------------- | :-----------: | :-----------: | :--------------: |
 |Picasso（2019） |	Sentiment vectors |	RF, SVM, feed forward NN |	RF with Gini impurity matric,Gaussian kernel SVM, 4 layer NN |
 |Frank Z. X. (2018) | Lexicon based sentiment score |	Recurrent Neural Network |	Knowledge-based polarity inference, LSTM |
@@ -21,7 +21,7 @@
 
 ***
 
-**|Reference       | Measurement      |  Performance      | Trading Strategy  |** 
+|Reference       | Measurement      |  Performance      | Trading Strategy  |
 | --------------- | :-----------: | :-----------: | :--------------: |
 |Picasso（2019） |	Trading simulation (20 stocks) |	Maximum 85.2% Annualized Return |	Buy or Sell when the prediction is greater or less than a threshold |
 |Frank Z. X. (2018) |	Trading simulation of one period portfolio asset allocation (5 stocks) |	Improve Annualized Return 10% on average |	Reinvest whole capital daily to the fastest-growing asset in the next time period |
