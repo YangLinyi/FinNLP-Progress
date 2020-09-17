@@ -1,8 +1,8 @@
 # Paper with Finacial Event Prediction
 
 * Sample Financial Events:
-  * Bankrupt
-  * Initial Public Offering (IPO)
+  * [Bankrupt](#bankrupt)
+  * [Initial Public Offering (IPO)](#ipo)
   * Mergers and Acquisitions (M&A)
   * Delisting
 
@@ -38,6 +38,3 @@
 | B. Shao (2018)  | Firms | UZABASE, Tokyo  | 3692 | Clustering | 2003-2016 | Accounting  |
 | Ye Cai (2012) | Firms | Securities Data Company’s (SDC)  | 5055 | logit models | 1996–2008  | Accounting  |
 | Ryan Moriarty et al. (2019) | Firms | EDGAR | 150,000 | Clustering | 1994-2018 | Accounting  |
-
-
-## References
