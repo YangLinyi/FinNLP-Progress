@@ -3,7 +3,7 @@
 * Sample Financial Events:
   * [Bankrupt](#bankrupt)
   * [Initial Public Offering (IPO)](#ipo)
-  * [Mergers and Acquisitions (M&A)](#m-&amp;-a)
+  * [Mergers and Acquisitions (M&A)](#mergers-and-acquisitions)
   * Delisting
 
 ## Bankrupt
@@ -29,7 +29,7 @@
 | Jie et al. (2016)  | Firms | US SEC’s EDGA, CRSP | 513 | FOCAS-IE | 2003-2013 | Accounting  |
 
 
-## M&amp;A
+## Mergers and Acquisitions
 | Study | Industry | Source of data | Sample size | Models | Time period | Variables Type |
 |-|-|-|-|-|-|-|
 | Adesoji  et al. (2015) | Firms | Securities Data Corporation (SDC)  | 150 | logit models | 1985–1995  | Food industry |
