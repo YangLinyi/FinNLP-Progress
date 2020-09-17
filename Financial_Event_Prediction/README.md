@@ -23,12 +23,11 @@
 
 
 ## IPO
-| Study | Industry | Source of data | Sample size | Models | Time period | Variables Type |
-|-|-|-|-|-|-|-|
-| Cristóbal Luque et al. (2012) | Firms | USA, AMEX, NASDAQ and NYSE IPOs | 866 | Genetic algorithms | 1999-2010 | Accounting  |
-| ZHE XU et al. (2016)  | Firms | USA, intrinio, The Reuters dataset | 20200 | HAN | 2006-2013 | Accounting  |
-| Jie et al. (2016)  | Firms | US SEC’s EDGA, CRSP | 513 | FOCAS-IE | 2003-2013 | Accounting  |
-
+| Study | Paper | Data Source | Model | Time Period | Variables Type |
+|-|-|-|-|-|-|
+| Cristóbal et al. (2012) | [Predicting IPO Underpricing with Genetic Algorithms](https://core.ac.uk/download/pdf/288498268.pdf) | USA, AMEX, NASDAQ and NYSE IPOs | Genetic algorithms | 1999-2010 | Accounting  |
+| Zhe et al. (2019)  | [Nlp Driven Large Scale Financial Data Analysis](https://www.ideals.illinois.edu/bitstream/handle/2142/104937/XU-THESIS-2019.pdf?sequence=1&isAllowed=y) | USA, Intrinio, The Reuters dataset | HAN | 2006-2013 | Accounting  |
+| Jie et al. (2015)  | [Text Mining for Studying Management’s Confidence in IPO Prospectuses and IPO Valuations](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1163&context=amcis2015) | US SEC’s EDGA, CRSP | FOCAS-IE | 2003-2013 | Accounting  |
 
 ## Mergers and Acquisitions
 | Study | Industry | Source of data | Sample size | Models | Time period | Variables Type |
