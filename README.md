@@ -22,4 +22,12 @@ Sentiment Analysis (Binary Classification / Five-class Classification)
 Group:
 Taiwan; Frank Xing; Tie-Yan Liu (Microsoft)
 
+### Financial Event Prediction (Bankrupt/IPO/M&S)
+Tasks:
+Classification (Event Prediction)
+Sentiment Analysis (Market Sentiment Prediction)
+
+Group:
+The Reuters, Bloomberg
+
 ### Portfolio Management (Currently research question do not exist in NLP)
