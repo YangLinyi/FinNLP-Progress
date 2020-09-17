@@ -1,6 +1,6 @@
-#Paper with respect to stock price movement
+# Paper with respect to stock price movement
 
-Reference       | Text Type     |  Coverage     | Frequency Level  |   Time span   |  Processing   |
+**Reference       | Text Type     |  Coverage     | Frequency Level  |   Time span   |  Processing   |**
 | --------------- | :-----------: | :-----------: | :--------------: | :-----------: | :-----------: |
 |Picasso（2019)   | Financial News | Stock market  | Minutes  | 03/07/2017-14/06/2018| L&Mc, AffectiveSpace|
 |Frank Z. X. (2018)|Social Media   |	Stock market  |	\  | 	08/14/2017-16/11/2017 | Sentic Computing  |
@@ -8,8 +8,10 @@ Reference       | Text Type     |  Coverage     | Frequency Level  |   Time span
 |Malandri(2018) |  Social Media,Article | Stock market | Days | 24/01/2012-02/06/2017 |  \ (Download vectorized sentiment data) |
 |Merello(2018) | Financial News | Stock market | Days |	-/08/2017--/03/2018 | L&Mc dictionary |
 
+***
 
-Reference       | Feature Formatting     |  Model Type     | Implementation  | 
+
+**Reference       | Feature Formatting     |  Model Type     | Implementation  |**
 | --------------- | :-----------: | :-----------: | :--------------: |
 |Picasso（2019） |	Sentiment vectors |	RF, SVM, feed forward NN |	RF with Gini impurity matric,Gaussian kernel SVM, 4 layer NN |
 |Frank Z. X. (2018) | Lexicon based sentiment score |	Recurrent Neural Network |	Knowledge-based polarity inference, LSTM |
@@ -17,8 +19,9 @@ Reference       | Feature Formatting     |  Model Type     | Implementation  |
 |Malandri(2018) |	7-dimensional vector: closing price, trading volume, number positive, neutral, negative reviews, the change value and the sentiment score |	Random forest classifier, Multi-layer Perceptron, LSTM |	MLP: Three layer network with BP,Stateful LSTM |
 |Merello(2018) |	Categories of words: positive, negative, litigious, uncertainty, etc. |	Attention model + LSTM + Dense |	\ |
 
+***
 
-Reference       | Measurement      |  Performance      | Trading Strategy  | 
+**Reference       | Measurement      |  Performance      | Trading Strategy  |** 
 | --------------- | :-----------: | :-----------: | :--------------: |
 |Picasso（2019） |	Trading simulation (20 stocks) |	Maximum 85.2% Annualized Return |	Buy or Sell when the prediction is greater or less than a threshold |
 |Frank Z. X. (2018) |	Trading simulation of one period portfolio asset allocation (5 stocks) |	Improve Annualized Return 10% on average |	Reinvest whole capital daily to the fastest-growing asset in the next time period |
