@@ -1,6 +1,6 @@
 # Paper with respect to stock price movement
 
-**|Reference       | Text Type     |  Coverage     | Frequency Level  |   Time span   |  Processing   |**
+|**Reference**       | **Text Type**     |  **Coverage**    | **Frequency Level**  |   **Time span**   |  **Processing**   |
 | --------------- | :-----------: | :-----------: | :--------------: | :-----------: | :-----------: |
 |Picasso（2019)   | Financial News | Stock market  | Minutes  | 03/07/2017-14/06/2018| L&Mc, AffectiveSpace|
 |Frank Z. X. (2018)|Social Media   |	Stock market  |	\  | 	08/14/2017-16/11/2017 | Sentic Computing  |
