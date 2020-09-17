@@ -27,14 +27,14 @@
 |-|-|-|-|-|-|
 | Cristóbal et al. (2012) | [Predicting IPO Underpricing with Genetic Algorithms](https://core.ac.uk/download/pdf/288498268.pdf) | USA, AMEX, NASDAQ and NYSE IPOs | Genetic algorithms | 1999-2010 | Accounting  |
 | Zhe et al. (2019)  | [Nlp Driven Large Scale Financial Data Analysis](https://www.ideals.illinois.edu/bitstream/handle/2142/104937/XU-THESIS-2019.pdf?sequence=1&isAllowed=y) | USA, Intrinio, The Reuters dataset | HAN | 2006-2013 | Accounting  |
-| Jie et al. (2015)  | [Text Mining for Studying Management’s Confidence in IPO Prospectuses and IPO Valuations](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1163&context=amcis2015) | US SEC’s EDGA, CRSP | FOCAS-IE | 2003-2013 | Accounting  |
+| Jie et al. (2015)  | [Text Mining for Studying Management’s Confidence in IPO Prospectuses and IPO Valuations](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1163&context=amcis2015) | USA, US SEC’s EDGA, CRSP | FOCAS-IE | 2003-2013 | Accounting  |
 
 ## Mergers and Acquisitions
-| Study | Industry | Source of data | Sample size | Models | Time period | Variables Type |
-|-|-|-|-|-|-|-|
-| Adesoji  et al. (2015) | Firms | Securities Data Corporation (SDC)  | 150 | logit models | 1985–1995  | Food industry |
-| Liu et al. (2016)  | Firms | China Securities Journal and the website  | 150 | Hopfield Network  | 2004-2006 | Accounting |
-| Chin-Sheng (2012)  | Firms | SDC Platinum database | 689 | Ensemble | 1997–2008 | Accounting  |
-| B. Shao (2018)  | Firms | UZABASE, Tokyo  | 3692 | Clustering | 2003-2016 | Accounting  |
-| Ye Cai (2012) | Firms | Securities Data Company’s (SDC)  | 5055 | logit models | 1996–2008  | Accounting  |
-| Ryan Moriarty et al. (2019) | Firms | EDGAR | 150,000 | Clustering | 1994-2018 | Accounting  |
+| Study | Paper | Data Source | Model | Time Period | Variables Type |
+|-|-|-|-|-|-|
+| Adesoji et al. (1999) | [Predicting Mergers and Acquisitions in the Food Industry](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1520-6297(199924)15:1%3C1::AID-AGR1%3E3.0.CO;2-N) | USA, SDC Platinum | Logit Models | 1985–1995  | Food industry |
+| Liu et al. (2007)  | [Financial Characteristics and Prediction on Targets of M&A Based on SOM-Hopfield Neural Network](https://ieeexplore.ieee.org/abstract/document/4419155) | China, Securities Journals, Web | Hopfield Network  | 2004-2006 | Accounting |
+| Chin-Sheng et al. (2014)  | [Exploiting Technological Indicators for Effective Technology Merger and Acquisition (M&A) Predictions](https://onlinelibrary.wiley.com/doi/abs/10.1111/deci.12062) | USA, SDC Platinum | Ensemble | 1997–2008 | Accounting  |
+| B.Shao et al. (2018) | [Categorization of Mergers and Acquisitions in Japan Using Corporate Databases: A Fundamental Research for Prediction](https://ieeexplore.ieee.org/abstract/document/8607408) | Tokyo, UZABASE | Clustering | 2003-2016 | Accounting  |
+| Ye et al. (2011) | [Board connections and M&A transactions](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1003&=&context=finance&=&sei-redir=1&referer=https%253A%252F%252Fscholar.google.com%252Fscholar%253Fhl%253Den%2526as_sdt%253D0%25252C5%2526q%253DBoard%252Bconnections%252Band%252BM%252526A%252Btransactions%2526btnG%253D#search=%22Board%20connections%20M%26A%20transactions%22) | USA, SDC Platinum | Logit Models | 1996–2008  | Accounting  |
+| Ryan et al. (2019) | [Deal or No Deal: Predicting Mergers and Acquisitions at Scale](https://ieeexplore.ieee.org/abstract/document/9006015) | USA, EDGAR | Clustering | 1994-2018 | Accounting |
