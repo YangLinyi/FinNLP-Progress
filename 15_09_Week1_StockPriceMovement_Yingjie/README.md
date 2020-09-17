@@ -11,7 +11,7 @@
 
 ***
 
-
+**Table 2** Algorithms involved and the implementation details
 |Reference       | Feature Formatting     |  Model Type     | Implementation  |
 | --------------- | :-----------: | :-----------: | :--------------: |
 |Picasso（2019） |	Sentiment vectors |	RF, SVM, feed forward NN |	RF with Gini impurity matric,Gaussian kernel SVM, 4 layer NN |
@@ -22,6 +22,7 @@
 
 ***
 
+**Table 3** Results reported using different measurements
 |Reference       | Measurement      |  Performance      | Trading Strategy  |
 | --------------- | :-----------: | :-----------: | :--------------: |
 |Picasso（2019） |	Trading simulation (20 stocks) |	Maximum 85.2% Annualized Return |	Buy or Sell when the prediction is greater or less than a threshold |
