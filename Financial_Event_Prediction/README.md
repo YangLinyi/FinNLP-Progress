@@ -3,7 +3,7 @@
 * Sample Financial Events:
   * [Bankrupt](#bankrupt)
   * [Initial Public Offering (IPO)](#ipo)
-  * [Mergers and Acquisitions (M&A)](#m&amp;a)
+  * [Mergers and Acquisitions (M&A)](#m-&amp;-a)
   * Delisting
 
 ## Bankrupt
