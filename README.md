@@ -2,11 +2,10 @@
 
 ## Table of contents
 
-### Financial Index Forecasting (Financial News/Social Media/Professional Documents/Earning Conference Call/10K10Q Report)
+### Financial Index Forecasting (Financial News/Social Media/Professional Documents/Earning Conference Call/10K-10Q Report)
 Tasks:
-Classification (Meaningless)
-
-Regression (MSE): Volatility Prediction; Return Prediction
+1) Classification (Binary/Triple Classification)
+2) Regression (MSE): Volatility Prediction; Return Prediction
 
 ### Financial Documents Analysis (Professional Documents)
 Tasks:
@@ -22,7 +21,7 @@ Sentiment Analysis (Binary Classification / Five-class Classification)
 Group:
 Taiwan; Frank Xing; Tie-Yan Liu (Microsoft)
 
-### Financial Event Prediction (Bankrupt/IPO/M&S)
+### Financial Event Prediction (Bankrupt/IPO/M&A)
 Tasks:
 Classification (Event Prediction)
 Sentiment Analysis (Market Sentiment Prediction)
@@ -30,4 +29,4 @@ Sentiment Analysis (Market Sentiment Prediction)
 Group:
 The Reuters, Bloomberg
 
-### Portfolio Management (Currently research question do not exist in NLP)
+### Portfolio Management 
