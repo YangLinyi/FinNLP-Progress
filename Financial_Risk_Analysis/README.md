@@ -1,8 +1,8 @@
 # Financial Risk Analysis 
 
 * Tasks:
- * [Volatility Prediction](#Volatility-Prediction)
- * [Other Tasks](#OtherTasks) 
+  * [Volatility Prediction](#Volatility-Prediction)
+  * [Other Tasks](#OtherTasks) 
 
 ## Volatility Prediction
 (sort in chronological order)
