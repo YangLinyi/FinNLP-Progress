@@ -1,6 +1,6 @@
 # Paper with respect to Blockchain
 
-| Reference | Title | Data source (open-sourced?) | Model Type | Measurement & Performance | Time Span | Primary Research Problem | CS or Eco |
+| Reference | Title | Data Source | Model Type | Measurement & Performance | Time Span | Primary Research Problem | CS or Eco |
 | --------------- | :-----------: | :-----------: | :-----------: | :--------------: | :-----------: | :-----------: | :--------------: |
 | Akcora et al. (2020) | [BitcoinHeist: Topological Data Analysis for Ransomware Detection on the Bitcoin Blockchain](https://arxiv.org/abs/1906.07852) | Bitcoin transaction graph data & ransomware dataset (NOT open-sourced) | K-means clustering,topological data analytics (TDA) model | Filtered out 3211 suspicious addresses (92 of them is ransomware address) | -/01/2009- -/12/2018 | 1. detect payments to addresses belong to ransomwares 2. predicting emergence of new ransomware | CS| 
 | Ji et al. (2020) | [SEBF: A Single-Chain based Extension Model of Blockchain for Fintech](https://www.ijcai.org/Proceedings/2020/620) | \ | \ | Compared with traditional blockchain, ours significantly reduced the SPV verification time | \ | Single-chain deal with multiple data types | CS |
