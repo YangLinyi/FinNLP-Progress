@@ -1,11 +1,11 @@
-# Financial Risk Analysis -  
-## (sort in chronological order)
-* Tasks:
-  * [Volatility Prediction](#volatility prediction)
-  * [Other Tasks](#other tasks)
+# Financial Risk Analysis 
 
+* Tasks:
+ * [Volatility Prediction](#Volatility-Prediction)
+ * [Other Tasks] (#Other-Tasks)
 
 ## Volatility Prediction
+(sort in chronological order)
 | Reference | Paper | Source | Model Type | Evaluation Metric(s) | Time Span | Contributions | Venue |
 | --------------- | :-----------: | :-----------: | :-----------: | :--------------: | :-----------: | :-----------: | :--------------: |
 | Theil et al. (2019) | [PRoFET: Predicting the Risk of Firms from Event Transcripts](https://www.ijcai.org/Proceedings/2019/724) | They present a new dataset of 90K earnings call transcripts [(open source)](https://github.com/samuelbroscheit/neural-profet) | BiLSTM | Linear correlation coefficient Pearson’s r, the Non-linear rank correlation coefficients Spearman’s ρ and Kendall’s τ, and the MSE | 2002–2017 | They introduce PRoFET, the first neural model for volatility prediction jointly exploiting both semantic language representations and a comprehensive set of financial features | IJCAI-19 |
@@ -15,6 +15,7 @@
 | Li et al. (2020) | [MAEC: A Multimodal Aligned Earnings Conference Call Dataset for Financial Risk Prediction](https://www.cikm2020.org/) | [MAEC Dataset](https://github.com/YangLinyi/MAEC-A-Multimodal-Aligned-Earnings-Conference-Call-Dataset-for-Financial-Risk-Prediction) | Multimodal Alignment | - | S&P 1500 companies from 2015 to 2018 | This is a data resource paper that is more than six times larger than those currently available to the research community.| CIKM-20 |
 
 ## Other Tasks
+(sort in chronological order)
 | Reference | Paper | Source | Model Type | Evaluation Metric(s) | Time Span | Contributions | Venue |
 | --------------- | :-----------: | :-----------: | :-----------: | :--------------: | :-----------: | :-----------: | :--------------: |
 | Yang et al. (2020) | [Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining](https://www.ijcai.org/Proceedings/2020/643) | Alipay Ant SME Lending (NOT open-sourced) | Spatial-temporal aware Graph Neural Network | Outperforms traditional Tree-based models and GNN-based models | \ | Analyze financial risk through mining the supply chain between Small and Medium-size Enterprises | IJCAI-20 | 
