@@ -4,6 +4,7 @@
   * [Volatility Prediction](#volatility prediction)
   * [Other Tasks](#other tasks)
 
+
 ## Volatility Prediction
 | Reference | Paper | Source | Model Type | Evaluation Metric(s) | Time Span | Contributions | Venue |
 | --------------- | :-----------: | :-----------: | :-----------: | :--------------: | :-----------: | :-----------: | :--------------: |
@@ -14,7 +15,6 @@
 | Li et al. (2020) | [MAEC: A Multimodal Aligned Earnings Conference Call Dataset for Financial Risk Prediction](https://www.cikm2020.org/) | [MAEC Dataset](https://github.com/YangLinyi/MAEC-A-Multimodal-Aligned-Earnings-Conference-Call-Dataset-for-Financial-Risk-Prediction) | Multimodal Alignment | - | S&P 1500 companies from 2015 to 2018 | This is a data resource paper that is more than six times larger than those currently available to the research community.| CIKM-20 |
 
 ## Other Tasks
-
 | Reference | Paper | Source | Model Type | Evaluation Metric(s) | Time Span | Contributions | Venue |
 | --------------- | :-----------: | :-----------: | :-----------: | :--------------: | :-----------: | :-----------: | :--------------: |
 | Yang et al. (2020) | [Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining](https://www.ijcai.org/Proceedings/2020/643) | Alipay Ant SME Lending (NOT open-sourced) | Spatial-temporal aware Graph Neural Network | Outperforms traditional Tree-based models and GNN-based models | \ | Analyze financial risk through mining the supply chain between Small and Medium-size Enterprises | IJCAI-20 | 
