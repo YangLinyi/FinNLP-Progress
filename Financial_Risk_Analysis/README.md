@@ -1,7 +1,7 @@
 # Financial Risk Analysis - Volatility Prediction 
 ## (sort in chronological order)
 
-| Reference | Paper | Source | Model Type | Evaluation Metric(s) | Time Span | Contribution | Venue |
+| Reference | Paper | Source | Model Type | Evaluation Metric(s) | Time Span | Contributions | Venue |
 | --------------- | :-----------: | :-----------: | :-----------: | :--------------: | :-----------: | :-----------: | :--------------: |
 | Theil et al. (2019) | [PRoFET: Predicting the Risk of Firms from Event Transcripts](https://www.ijcai.org/Proceedings/2019/724) | They present a new dataset of 90K earnings call transcripts [(open source)](https://github.com/samuelbroscheit/neural-profet) | BiLSTM | Linear correlation coefficient Pearson’s r, the Non-linear rank correlation coefficients Spearman’s ρ and Kendall’s τ, and the MSE | 2002–2017 | They introduce PRoFET, the first neural model for volatility prediction jointly exploiting both semantic language representations and a comprehensive set of financial features | IJCAI-19 |
 | Qin and Yang et al. (2019) | [What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues](https://www.aclweb.org/anthology/P19-1038/) | [Dataset](https://github.com/GeminiLn/EarningsCall_Dataset) | MDRM | MSE | S&P 500 companies in 2017 |First work to extend the earnings conference call analysis as a multimodal problem by incorporating textual and audio information in the same model.| ACL-19 |
@@ -11,7 +11,7 @@
 
 # Financial Risk Analysis - Other Tasks
 
-| Reference | Paper | Source | Model Type | Evaluation Metric(s) | Time Span | Contribution | Venue |
+| Reference | Paper | Source | Model Type | Evaluation Metric(s) | Time Span | Contributions | Venue |
 | --------------- | :-----------: | :-----------: | :-----------: | :--------------: | :-----------: | :-----------: | :--------------: |
 | Yang et al. (2020) | [Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining](https://www.ijcai.org/Proceedings/2020/643) | Alipay Ant SME Lending (NOT open-sourced) | Spatial-temporal aware Graph Neural Network | Outperforms traditional Tree-based models and GNN-based models | \ | Analyze financial risk through mining the supply chain between Small and Medium-size Enterprises | IJCAI-20 | 
 | Bisi et al. (2020) | [Risk-Averse Trust Region Optimization for Reward-Volatility Reduction](https://www.ijcai.org/Proceedings/2020/632) | \ | \ | On a simplified portfolio management task, proposed algorithms are proved to get lower Reward Volatility than baseline. Most of proof is given in theoretical derivation. | \ | In many cases, the risk is measured not only on a long-term perspective, but also on a step-wise reward. (like on a daily base) | IJCAI-20 |
