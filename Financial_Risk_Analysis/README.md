@@ -2,7 +2,7 @@
 
 * Tasks:
  * [Volatility Prediction](#Volatility-Prediction)
- * [Other Tasks] (#Other-Tasks)
+ * [Other Tasks](#OtherTasks) 
 
 ## Volatility Prediction
 (sort in chronological order)
@@ -14,7 +14,7 @@
 | Ye et al. (2020) | [Financial Risk Prediction with Multi-Round Q&A Attention Network](https://www.ijcai.org/Proceedings/2020/631) | 6494 text-only samples | Bidirectional LSTM | MSE | 2015-2018 | Instead of word-level or document level feature extraction, they focus on dialogues in the conference. Through extracting features of each round of dialogue, the model predicts the financial volatility. Compared to the most common baseline, past volatility, proposed model achieves 47% improvement in 3-days span, 31% in 7-days span, and 23% in 15-days span. | IJCAI-20 |
 | Li et al. (2020) | [MAEC: A Multimodal Aligned Earnings Conference Call Dataset for Financial Risk Prediction](https://www.cikm2020.org/) | [MAEC Dataset](https://github.com/YangLinyi/MAEC-A-Multimodal-Aligned-Earnings-Conference-Call-Dataset-for-Financial-Risk-Prediction) | Multimodal Alignment | - | S&P 1500 companies from 2015 to 2018 | This is a data resource paper that is more than six times larger than those currently available to the research community.| CIKM-20 |
 
-## Other Tasks
+## OtherTasks
 (sort in chronological order)
 | Reference | Paper | Source | Model Type | Evaluation Metric(s) | Time Span | Contributions | Venue |
 | --------------- | :-----------: | :-----------: | :-----------: | :--------------: | :-----------: | :-----------: | :--------------: |
