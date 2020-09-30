@@ -1,8 +1,8 @@
 # Financial Risk Analysis -  
 ## (sort in chronological order)
 
-[Volatility Prediction](#Volatility Prediction)
-[Other tasks](#Other Tasks)
+  * [Volatility Prediction](#volatility prediction)
+  * [Other Tasks](#other tasks)
 
 ## Volatility Prediction
 | Reference | Paper | Source | Model Type | Evaluation Metric(s) | Time Span | Contributions | Venue |
