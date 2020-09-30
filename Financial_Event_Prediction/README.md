@@ -7,7 +7,7 @@
 
 
 ## Bankrupt
-| Study | Paper | Data Source | Model | Time Period | Variable Type |
+| Study | Paper | Data Source | Model | Time Period | Venue |
 |-|-|-|-|-|-|
 | Geng et al. (2015) | [Prediction of financial distress: An empirical study of listed Chinese companies using data mining](https://www.sciencedirect.com/science/article/abs/pii/S0377221714006511) | China, CSMAR | NN, DT, SVM, MV  | 2001–2008  | Accounting  |
 | Liang et al. (2016)  | [Financial ratios and corporate governance indicators in bankruptcy prediction: A comprehensive study](https://www.sciencedirect.com/science/article/abs/pii/S0377221716000412) | Taiwan Economic Journal (TEJ)  | SVM, KNN, NB, CART, MLP  | 1999–2009  | Accounting, market, corporate governance  |
