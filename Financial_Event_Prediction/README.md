@@ -24,9 +24,9 @@
 ## IPO
 | Reference | Paper | Data Source | Model | Evaluation Metric(s) | Time Period | Contributions | Venue |
 |-|-|-|-|-|-|-|-|
-| Cristóbal et al. (2012) | [Predicting IPO Underpricing with Genetic Algorithms](https://core.ac.uk/download/pdf/288498268.pdf) | USA, AMEX, NASDAQ and NYSE IPOs | Genetic algorithms | | 1999-2010 | | Accounting  |
-| Zhe et al. (2019)  | [NLP Driven Large Scale Financial Data Analysis](https://www.ideals.illinois.edu/bitstream/handle/2142/104937/XU-THESIS-2019.pdf?sequence=1&isAllowed=y) | USA, Intrinio, The Reuters dataset | HAN | | 2006-2013 | | Accounting  |
-| Jie et al. (2015)  | [Text Mining for Studying Management’s Confidence in IPO Prospectuses and IPO Valuations](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1163&context=amcis2015) | USA, US SEC’s EDGA, CRSP | FOCAS-IE | | 2003-2013 | | Accounting  |
+| Cristóbal et al. (2012) | [Predicting IPO Underpricing with Genetic Algorithms](https://core.ac.uk/download/pdf/288498268.pdf) | USA, AMEX, NASDAQ and NYSE IPOs | Genetic algorithms | RMSE, Precision | 1999-2010 | A rule system to predict first-day returns of initial public offerings based on the structure of the offerings | Accounting |
+| Zhe et al. (2019)  | [NLP Driven Large Scale Financial Data Analysis](https://www.ideals.illinois.edu/bitstream/handle/2142/104937/XU-THESIS-2019.pdf?sequence=1&isAllowed=y) | USA, Intrinio, The Reuters dataset | HAN | Accuracy | 2006-2013 | Explores the influence of various factors on the performance of utilizing NLP knowledge to predict stock trend of a company | Accounting  |
+| Jie et al. (2015)  | [Text Mining for Studying Management’s Confidence in IPO Prospectuses and IPO Valuations](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1163&context=amcis2015) | USA, US SEC’s EDGA, CRSP | FOCAS-IE | Confusion Metrics, Accuracy | 2003-2013 | By analyzing MD&A, build an analysis framework FOCAS-IE, extract emotions, and use the information extracted by FOCAS-IE to build a predictive model | Accounting  |
 
 
 ## Mergers and Acquisitions
