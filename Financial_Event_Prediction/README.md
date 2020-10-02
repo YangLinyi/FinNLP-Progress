@@ -9,7 +9,7 @@
 ## Bankrupt
 | Reference | Paper | Data Source | Model | Evaluation Metric(s) | Time Period | Contributions | Venue |
 |-|-|-|-|-|-|-|-|
-| Geng et al. (2015) | [Prediction of financial distress: An empirical study of listed Chinese companies using data mining](https://www.sciencedirect.com/science/article/abs/pii/S0377221714006511) | China, CSMAR | NN, DT, SVM, MV  | | 2001–2008  | | Accounting  |
+| Geng et al. (2015) | [Prediction of financial distress: An empirical study of listed Chinese companies using data mining](https://www.sciencedirect.com/science/article/abs/pii/S0377221714006511) | China, CSMAR | NN, DT, SVM, MV  | Accuracy, Recall, Precision | 2001–2008  | phenomenon of financial distress for 107 Chinese companies that received the label‘special treatment’ from 2001 to 2008 by the Shanghai Stock Exchange and the Shenzhen Stock Exchange | Accounting  |
 | Liang et al. (2016)  | [Financial ratios and corporate governance indicators in bankruptcy prediction: A comprehensive study](https://www.sciencedirect.com/science/article/abs/pii/S0377221716000412) | Taiwan Economic Journal (TEJ)  | SVM, KNN, NB, CART, MLP  | | 1999–2009 | | Accounting, market, corporate governance  |
 | Olson et al. (2012)  | [Comparative analysis of data mining methods for bankruptcy prediction](https://www.sciencedirect.com/science/article/abs/pii/S0167923611001709) | USA, Compustat | DT, logit, MLP, RBFN, SVM  | | 2005–2009 | | Accounting  |
 | Ioannidis et al. (2010)  | [Assessing bank soundness with classification techniques](https://www.sciencedirect.com/science/article/abs/pii/S0305048309000796) | Bankscope, World Bank  | UTADIS, MLP, CART, KNN, Ordered logit, stacked models  | | 2007–2008 |  | Accounting, country-level variables  |
