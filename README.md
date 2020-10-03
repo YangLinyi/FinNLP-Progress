@@ -1,7 +1,15 @@
 # Tracking Progress in FinNLP
 
 ## Table of contents
+- [Financial Index Forecasting](/NLP-based_Financial_Forecasting/README.md)
+- [Financial_Event_Prediction](/Financial_Event_Prediction/README.md)
+- [Financial_Risk_Analysis](/Financial_Risk_Analysis/README.md)
+- [Financial_Text_Mining](/Financial_Text_Mining/README.md)
+- [Fraud_Detection](/Fraud_Detection/README.md)
+- [Blockchain](/Blockchain/README.md)
 
+
+## Research Groups
 ### Financial Index Forecasting (Financial News/Social Media/Professional Documents/Earning Conference Call/10K-10Q Report)
 Tasks:
 1) Classification (Binary/Triple Classification)
@@ -28,5 +36,3 @@ Sentiment Analysis (Market Sentiment Prediction)
 
 Group:
 The Reuters, Bloomberg
-
-### Portfolio Management 
