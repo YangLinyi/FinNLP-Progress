@@ -2,10 +2,10 @@
 
 ## Table of contents
 - [Financial Index Forecasting](/NLP-based_Financial_Forecasting/README.md)
-- [Financial_Event_Prediction](/Financial_Event_Prediction/README.md)
-- [Financial_Risk_Analysis](/Financial_Risk_Analysis/README.md)
-- [Financial_Text_Mining](/Financial_Text_Mining/README.md)
-- [Fraud_Detection](/Fraud_Detection/README.md)
+- [Financial Event Prediction](/Financial_Event_Prediction/README.md)
+- [Financial Risk Analysis](/Financial_Risk_Analysis/README.md)
+- [Financial Text Mining](/Financial_Text_Mining/README.md)
+- [Fraud Detection](/Fraud_Detection/README.md)
 - [Blockchain](/Blockchain/README.md)
 
 
