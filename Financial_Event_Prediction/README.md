@@ -3,7 +3,7 @@
 * Sample Financial Events:
   * [Bankrupt](#bankrupt)
   * [Initial Public Offering (IPO)](#ipo)
-  * [Mergers and Acquisitions (M&A)](#mergers-and-acquisitions)
+  * [Mergers and Acquisitions (M&A)](#mergers-and-acquisitions) 
 
 
 ## Bankrupt
@@ -19,6 +19,9 @@
 | Mai et al. (2018) | [Deep learning models for bankruptcy prediction using textual disclosures](https://www.sciencedirect.com/science/article/abs/pii/S0377221718308774) | USA, CRSP | CNN | AUC | 1994-2014 | Deep learning models for corporate bankruptcy forecasting using textual disclosures| Accounting |
 | Snow et al. (2020) | [Investigating Accounting Patterns for Bankruptcy and Filing Outcome Prediction using Machine Learning Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481555) | USA, UCLA BRD | XGBClassifier | ROC, AUC | 1977-2016 | A modern gradient boosting machine (GBM), XGBoost, to predict litigated bankruptcies and filing outcomes | Accounting |
 | Snow et al. (2020) | [Predicting Global Restaurant Facility Closures](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481555) | USA, Yelp | LightGBM | ROC | 2006-2017 | Through text mining and sentiment analysis, make survival predictions for restaurants | Accounting  |
+| Mohammad et al. (2020) | [The Automated Venture Capitalist: Data and Methods to Predict the Fate of Startup Ventures](https://aaai-kdf2020.github.io/assets/pdfs/kdf2020_paper_14.pdf) | 2015 Massachusetts Institute of Technology $100K Launch competition (open sourced) | NN | AUC | / | Investigate how the composition of early-stage start-up teams, and the properties of their ventures, predict their nomination to a premier entrepreneurship competition, and their continued operation two years following | Accounting |
+
+
 
 
 ## IPO
