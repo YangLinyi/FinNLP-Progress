@@ -29,6 +29,7 @@
 | Ye et al.(2020) | [Multi-Graph Convolutional Network for Relationship-Driven Stock Movement Prediction](https://arxiv.org/abs/2005.04955) | CSI300 and CSI500 company from a public API [tushare](http://tushare.org/) | Graph convolutional network, Gated recurrent units | CSI300L Acc:0.5754, F1:0.6981, MCC: 0.2171. CSI500: Acc: 0.5885, F1: 0.7199, MCC: 0.2377 | 01/06/2015- 05/12/2019 |The idea of this paper is similar with Kim et al. (2019).  Differences: (1) predict market index or individual stock price (2) the binary class (3) how to calculate the correlation | 
 
 
+
 ## Stock Return Forecasting
 | Reference | Paper | Data Source | Model | Evaluation Metric(s) | Time Period | Contributions | Venue |
 |-|-|-|-|-|-|-|-|
@@ -39,6 +40,7 @@
 | Yuan (2015) | [Market-wide attention, trading, and stock returns](https://www.sciencedirect.com/science/article/abs/pii/S0304405X15000410) | [Trim Tabs Financial](https://trimtabsfunds.com/) | \ | \ | -/02/1998- -/12-2005 |analyze the ability of record-breaking events for the Dow index and front-page articles about the stock market to predict trading patterns and market returns | Eco | 
 | Oliveira et al. (2013) | [Some Experiments on Modeling Stock Market Behavior Using Investor Sentiment Analysis and Posting Volume from Twitter](https://dl.acm.org/doi/abs/10.1145/2479787.2479811?casa_token=Sdont31R9bwAAAAA:zRHN15_Pe1ZAHW2gL6L-Vgq6Er84n0hYGMoGWFBP6kQOKmDS-Y9RBkKPy022YeyFB_2ogcFcAAepBA) | (1)All daily tweets from [Twitter](https://developer.twitter.com/en/docs/twitter-api),(2)Stock market daily variables from [Reuters](http://online.thomsonreuters.com/datastream/) (denied to access) | Regression model | Returns: R2 0.2, Trading volume: R2 0.41, Volatility: R2 0.67 | 24/12/2012- 08/02/2013 | Confirm the return is unpredictable based on the sentiment indicator.But they think trading volume and volatility are relevant to the tweets volume. | WIMS 2013 | 
 | Schumaker and Chen (2009) | [Textual Analysis of Stock Market Prediction Using Breaking Financial News: The AZFinText System](https://dl.acm.org/doi/abs/10.1145/1462198.1462204?casa_token=6yg19w43e14AAAAA:AMbcWZsNfqmWrJWtMHS4zOt5KuDHq7NqRru8gHf7OBJWJ9mDGyAJZKNRYEoaJGQHC5Tc_VHoo0NNOQ) | (1) S&P 500  (2) 9211 financial news articles from Yahoo Finance | SVM | Directional accuracy: 57%, MSE: 0.04216, Simulated trading: 2.06% return | 26/10/2005- 28/11/2005 | They show that the model containing both article terms and stock price at the time of article release had the best performance | ACM Transactions on Information Systems | 
+| Duan et al. (2018) | [Learning Target-Specific Representations of Financial News Documents For Cumulative Abnormal Return Prediction](https://www.aclweb.org/anthology/C18-1239/) | [Reuters](http://github.com/sudy/coling2018) | Neural attention, Bi-directional LSTM | AUC | 09/2006-12/2015 | Target-specific document representation model which disregards noise. Uses full news article for stock prediction. | COLING-2018 | 
  
 
 ## Portfolio Management
@@ -64,3 +66,9 @@
 | Lin & Beling (2020) | [An End-to-End Optimal Trade Execution Framework based on Proximal Policy Optimization](https://www.ijcai.org/Proceedings/2020/627) | One-year millisecond Trade and Quote (TAQ) data of 14 stocks (NOT open-sourced) | Fully Connected Network, LSTM | Mean of Implementation Shortfall (IS), standard deviation of IS, and Gain-Loss Ratio (GLR) | -/01/2018- -/12/2018 | Based on Limit Order Book (LOB) information such as bid or ask prices, make trading decision directly without manually attributes | IJCAI-2020 |
 | Spooner & Savani (2020) | [Robust Market Making via Adversarial Reinforcement Learning](https://arxiv.org/abs/2003.01820) | \ | Adversarial Reinforcement Learning | The resulting performance shows an improvement in the Sharpe ratio of 0.27 and lower variance on terminal wealth | \ | Use Adversarial Reinforcement Learning to product market making agents | IJCAI-2020 | 
 | Poli et al. (2020) | [WATTNet: Learning to Trade FX via Hierarchical Spatio-Temporal Representation of Highly Multivariate Time Series](https://arxiv.org/abs/1909.10801) |Collect 6 major NDF markets: US Dollar – Chinese Yuan, US Dollar – Indonesian Rupiah, US Dollar – Indian Rupee, US Dollar – Philippine Peso, US Dollar – Taiwan Dollar (NOT open-sourced) | NN | 219.1 Return over Investment in USDCNY market, whereas LSTM model got 74.3 | 10/09/2013-17/06/2019 | Focus on non-deliverable forward (NDF) selection, which is a derivatives contract used in foreign ex- change (FX) trading | IJCAI-2020 | 
+
+
+## Other
+| Reference | Paper | Data Source | Model | Evaluation Metric(s) | Time Period | Contributions | Venue |
+|-|-|-|-|-|-|-|-|
+| Zamani et al. (2017) | [Using Twitter Language to Predict the Real Estate Market](https://www.aclweb.org/anthology/E17-2005/) | Census Bureau, Zillow, Twitter | Residualised Control Regression | \ | 2011-2013 | Shows twitter data can be predictive of real estate. Residualised control approach to multi-modal features. | EACL-2017 |
