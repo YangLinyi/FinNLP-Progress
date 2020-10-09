@@ -9,7 +9,10 @@
 - [Blockchain](/Blockchain/README.md)
 
 ## Open-source Datasets
-- [Earnings Conference Call Datasets](/Earnings_Call_Datasets/README.md)
+- [Multi-modal Earnings Conference Call Datasets](/Earnings_Call_Datasets/README.md)
+- [Pre-trained Word Embedding on Financial Communication Text](https://github.com/yya518/FinBERT)
+- [Reuters TRC2 dataset](https://trec.nist.gov/data/reuters/reuters.html)
+- [Financial Phrase Bank](https://www.researchgate.net/publication/251231364_FinancialPhraseBank-v10)
 
 ## Research Groups
 ### Financial Index Forecasting (Financial News/Social Media/Professional Documents/Earning Conference Call/10K-10Q Report)
