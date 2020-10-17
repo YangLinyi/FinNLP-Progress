@@ -21,6 +21,8 @@
 | Snow et al. (2020) | [Predicting Global Restaurant Facility Closures](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481555) | USA, Yelp | LightGBM | ROC | 2006-2017 | Through text mining and sentiment analysis, make survival predictions for restaurants | Accounting  |
 | Mohammad et al. (2020) | [The Automated Venture Capitalist: Data and Methods to Predict the Fate of Startup Ventures](https://aaai-kdf2020.github.io/assets/pdfs/kdf2020_paper_14.pdf) | 2015 Massachusetts Institute of Technology $100K Launch competition (open sourced) | NN | AUC | / | Investigate how the composition of early-stage start-up teams, and the properties of their ventures, predict their nomination to a premier entrepreneurship competition, and their continued operation two years following | Accounting |
 
+| Martin et al. (2013) | [Bankruptcy prediction for small- and medium-sized companies using severely imbalanced datasets](https://e-tarjome.com/storage/panel/fileuploads/2020-02-05/1580906027_E14469-e-tarjome.pdf) | / | SVM, IF | Accuerary | 2010-2016 | Unbalanced data sources | Accounting |
+
 
 
 
