@@ -1,4 +1,4 @@
-# Paper with respect to NLP-based Financial Forecasting
+# Papers with respect to NLP-based Financial Forecasting
 
 * Sample Financial Events:
   * [Stock Price Movement Prediction](#stock-price-movement-prediction)
