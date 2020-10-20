@@ -88,7 +88,7 @@
 | Poli et al. (2020) | [WATTNet: Learning to Trade FX via Hierarchical Spatio-Temporal Representation of Highly Multivariate Time Series](https://arxiv.org/abs/1909.10801) |Collect 6 major NDF markets: US Dollar – Chinese Yuan, US Dollar – Indonesian Rupiah, US Dollar – Indian Rupee, US Dollar – Philippine Peso, US Dollar – Taiwan Dollar (NOT open-sourced) | NN | 219.1 Return over Investment in USDCNY market, whereas LSTM model got 74.3 | 10/09/2013-17/06/2019 | Focus on non-deliverable forward (NDF) selection, which is a derivatives contract used in foreign ex- change (FX) trading | IJCAI-2020 | 
 
 
-## measuring-forecasting-skill
+## Measuring Forecasting Skill
 | Reference | Paper | Data Source | Model | Evaluation Metric(s) | Time Period | Contributions | Venue |
 |-|-|-|-|-|-|-|-|
 | Zong et al. (2020) | [Measuring Forecasting Skill from Text](https://www.aclweb.org/anthology/2020.acl-main.473.pdf) | Geopolitical Forecasting Data, Earnings Call Data | BERT-base | \ | 2014-2018 |  They presented the first study of connections between people’s forecasting skill and language used to justify their predictions. | ACL-2020 |
