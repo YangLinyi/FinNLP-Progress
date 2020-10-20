@@ -6,7 +6,12 @@
   * [Portfolio Managament](#portfolio-management)
   * [Trading Strategy Analysis](#trading-strategy-analysis)
   * [Measuring Forecasting Skill from Text](#measuring-forecasting-skill)
-  * [Interpretable Model](#interpretable-model}
+  
+* Beyond Accuracy:  
+  * [Interpretable Model](#interpretable-model)
+  * [Text Visualization](#Text-Visualization)
+  * [Discourse Analysis](#Discourse-Analysis)  
+  * [Other Topis](#interpretable-model)
 
 
 ## Stock Price Movement Predicion
@@ -97,7 +102,7 @@
 | [Ito et al. (2019)](https://drive.google.com/file/d/1GCHjbd1Zt7IQbcsJN3GtgF6RuPemifFw/view) | [CSNN: Contextual Sentiment Neural Network](https://ieeexplore.ieee.org/document/8970961) | 1. [EcoRevs I and II.](https://www5.cao.go.jp/keizai3/watcher-e/index-e.html) 2. [Yahoo review](http://textream.yahoo.co.jp/) 3. [Sentiment 140](https://www.kaggle.com/kazanova/sentiment140) | Contextual Sentiment Neural Network (CSNN) | Macro F1 score, Pearson Correlation Coefficient | \ | To improve the interpretability of NN, they propose a novel initialization propagation (IP) learning to replace BP algorithm. | [2019 IEEE International Conference on Data Mining (ICDM)](https://ieeexplore.ieee.org/xpl/conhome/8961330/proceeding) | 
 | Nakagawa et al. (2019) | [Deep Recurrent Factor Model: Interpretable Non-Linear and Time-Varying Multi-Factor Model](https://arxiv.org/abs/1901.11493) | 1. TOPIX 500 index from Tokyo Stock Exchange, 2. Nikkei Portfolio Master (NPM) and Bloomberg | LSTM-LRP | MAE, RMSE, annualized return, volatility, Sharpe ratio | -/12/1990- -/03/2015 | By combining the Layer-wise Relevance Propagation (LRP) with LSTM, they improved the interpretability of model. | AAAI-19 Workshop on Network Interpretability for Deep Learning
 
-## Long Financial Document Analysis
+## Discourse Analysis
 | Reference | Paper | Data Source | Model | Evaluation Metric(s) | Time Period | Contributions | Venue |
 |-|-|-|-|-|-|-|-|
 | [Ito et al. (2020)](https://github.com/itomoki430/Company2Vec) | [Learning Company Embeddings from Annual Reports for Fine-grained Industry Characterization](https://www.aclweb.org/anthology/2020.finnlp-1.5/) | 1.[10K reports of companies in US stock market](https://www.annualreports.com/Browse?type=Industry)(in English) 2.[10K reports of companies in Tokyo Stock Exchange](https://www.jpx.co.jp/markets/statistics-equities/misc/01.html)(in Japanese) | [BERT-base-uncased model](https://github.com/huggingface/transformers) (for English text), [Japanese pre-trained model](https://drive.google.com/drive/folders/1iDlmhGgJ54rkVBtZvgMlgbuNwtFQ50V-) (for Japanese text) | Related Company Extraction Test, Theme-based Extraction Test | 2018, 2019 | propose to learn vector representations of companies based on their annual reports | [Proceedings of the Second Workshop on Financial Technology and Natural Language Processing](https://www.aclweb.org/anthology/volumes/2020.finnlp-1/) | [Proceedings of the Second Workshop on Financial Technology and Natural Language Processing](https://www.aclweb.org/anthology/volumes/2020.finnlp-1/) | 
