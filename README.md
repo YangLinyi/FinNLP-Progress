@@ -14,7 +14,7 @@
 - [Reuters TRC2 dataset](https://trec.nist.gov/data/reuters/reuters.html)
 - [Financial Phrase Bank](https://www.researchgate.net/publication/251231364_FinancialPhraseBank-v10)
 
-## Research Groups
+## Research Topics
 ### Financial Index Forecasting (Financial News/Social Media/Professional Documents/Earning Conference Call/10K-10Q Report)
 Tasks:
 1) Classification (Binary/Triple Classification)
@@ -24,20 +24,18 @@ Tasks:
 Tasks:
 Correlation (ACL-19: Financial Analysts Rating-Earning Conference Call)
 
-Groups:
+Research Institutions:
 Bloomberg; CMU
 
 ### Investor Sentiment Analysis (Social Media/Financial News)
 Tasks:
 Sentiment Analysis (Binary Classification / Five-class Classification)
 
-Group:
-Taiwan; Frank Xing; Tie-Yan Liu (Microsoft)
 
 ### Financial Event Prediction (Bankrupt/IPO/M&A)
 Tasks:
 Classification (Event Prediction)
 Sentiment Analysis (Market Sentiment Prediction)
 
-Group:
+Research Institutions:
 The Reuters, Bloomberg
