@@ -1,5 +1,8 @@
 # Tracking Progress in FinNLP
 
+## News
+As the acceptance paper list of AAAI-2021 has been released, we will update the AAAI-21 papers relevant to the FinNLP soon.
+
 ## Table of contents
 - [Financial Index Forecasting](/NLP-based_Financial_Forecasting/README.md)
 - [Financial Event Prediction](/Financial_Event_Prediction/README.md)
