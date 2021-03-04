@@ -27,8 +27,6 @@ Tasks:
 Tasks:
 Correlation (ACL-19: Financial Analysts Rating-Earning Conference Call)
 
-Research Institutions:
-Bloomberg; CMU
 
 ### Investor Sentiment Analysis (Social Media/Financial News)
 Tasks:
@@ -40,5 +38,3 @@ Tasks:
 Classification (Event Prediction)
 Sentiment Analysis (Market Sentiment Prediction)
 
-Research Institutions:
-The Reuters, Bloomberg
