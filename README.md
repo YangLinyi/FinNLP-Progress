@@ -1,7 +1,10 @@
 # Tracking Progress in FinNLP
 
 ## News
-As the acceptance paper list of AAAI-2021 has been released, we will update the AAAI-21 papers relevant to the FinNLP soon.
+FinNLP@AAAI2021:
+- [Coupling Macro-Sector-Micro Financial Indicators for Learning Stock Representations with Less Uncertainty](https://www.aaai.org/AAAI21Papers/AAAI-7228.WangG.pdf)
+- [Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks](https://www.aaai.org/AAAI21Papers/AAAI-5328.ChengR.pdf)
+- [Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach](http://34.94.61.102/paper_AAAI-7907.html) (Withdrawn?)
 
 ## Table of contents
 - [Financial Index Forecasting](/NLP-based_Financial_Forecasting/README.md)
