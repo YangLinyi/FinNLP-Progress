@@ -5,6 +5,9 @@ FinNLP@AAAI2021:
 - [Coupling Macro-Sector-Micro Financial Indicators for Learning Stock Representations with Less Uncertainty](https://www.aaai.org/AAAI21Papers/AAAI-7228.WangG.pdf)
 - [Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks](https://www.aaai.org/AAAI21Papers/AAAI-5328.ChengR.pdf)
 - [Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach](http://34.94.61.102/paper_AAAI-7907.html) (Withdrawn?)
+- [DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio Management with Market Conditions Embedding](https://biweihuang.com/publications-2/)
+- [Deep Portfolio Optimization via Distributional Prediction of Residual Factors](https://arxiv.org/pdf/2012.07245.pdf)
+- [Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management](https://arxiv.org/pdf/2012.12620.pdf)
 
 ## Table of contents
 - [Financial Index Forecasting](/NLP-based_Financial_Forecasting/README.md)
