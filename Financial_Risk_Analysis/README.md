@@ -5,6 +5,7 @@
   * [Other Tasks](#OtherTasks) 
 
 ## Volatility Prediction
+Yang et al. (2020) is the first approach that can deal with the long-form financial documents for volatility prediction.
 (sort in chronological order)
 | Reference | Paper | Source | Model Type | Evaluation Metric(s) | Time Span | Contributions | Venue |
 | --------------- | :-----------: | :-----------: | :-----------: | :--------------: | :-----------: | :-----------: | :--------------: |
