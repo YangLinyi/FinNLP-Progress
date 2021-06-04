@@ -1,6 +1,6 @@
 # Papers with respect to NLP-based Financial Forecasting
 
-* Sample Financial Index Prediction:
+* Financial Indicators Prediction:
   * [Stock Price Movement Prediction](#stock-price-movement-prediction)
   * [Stock Return Forecasting](#stock-return-forecasting)
   * [Portfolio Managament](#portfolio-management)
