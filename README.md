@@ -4,6 +4,12 @@
 
 FinNLP@EMNLP2021:
 - [FinQA: A Dataset of Numerical Reasoning over Financial Data](https://arxiv.org/abs/2109.00122)
+
+FinNLP@ACL2021:
+- [Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis](https://arxiv.org/abs/2106.15231)
+- [Multimodal Multi-Speaker Merger & Acquisition Financial Modeling: A New Task, Dataset, and Neural Baselines](https://old.insight-centre.org/sites/default/files/publications/a_multimodal_aligned_earnings_conference_call_dataset_for_financial_risk_prediction.pdf)
+- [TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance](https://arxiv.org/abs/2105.07624)
+
 FinNLP@AAAI2021:
 - [Coupling Macro-Sector-Micro Financial Indicators for Learning Stock Representations with Less Uncertainty](https://www.aaai.org/AAAI21Papers/AAAI-7228.WangG.pdf)
 - [Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks](https://www.aaai.org/AAAI21Papers/AAAI-5328.ChengR.pdf)
