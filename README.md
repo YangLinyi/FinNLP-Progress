@@ -1,6 +1,9 @@
 # Tracking Progress in FinNLP
 
 ## News
+
+FinNLP@EMNLP2021:
+- [FinQA: A Dataset of Numerical Reasoning over Financial Data](https://arxiv.org/abs/2109.00122)
 FinNLP@AAAI2021:
 - [Coupling Macro-Sector-Micro Financial Indicators for Learning Stock Representations with Less Uncertainty](https://www.aaai.org/AAAI21Papers/AAAI-7228.WangG.pdf)
 - [Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks](https://www.aaai.org/AAAI21Papers/AAAI-5328.ChengR.pdf)
