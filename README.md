@@ -2,6 +2,13 @@
 
 ## News
 
+Updates for ACL 2022:
+
+- [FiNER: Financial Numeric Entity Recognition for XBRL Tagging](https://www.2022.aclweb.org/papers)
+- [Guided Attention Multimodal Multitask Financial Forecasting with Inter-Company Relationships and Global and Local News](https://www.2022.aclweb.org/papers)
+- [Incorporating Stock Market Signals for Twitter Stance Detection](https://www.2022.aclweb.org/papers)
+- [Buy Tesla, Sell Ford: Assessing Implicit Stock Market Preference in Pre-trained Language Models](https://www.2022.aclweb.org/papers)
+
 FinNLP@EMNLP2021:
 - [FinQA: A Dataset of Numerical Reasoning over Financial Data](https://arxiv.org/abs/2109.00122)
 
